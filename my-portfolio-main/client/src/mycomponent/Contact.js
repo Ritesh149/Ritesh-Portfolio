@@ -104,15 +104,15 @@ function Contact(props) {
               <div class="col-lg-6 info info-bg d-flex flex-column align-items-stretch">
                 <i class="bx bx-phone"><BsTelephonePlus/></i>
                 <h4>Call </h4>
-                <p><a className='mails' href="tel:+918685068567">+91 8930063397</a><br></br>
-                {/* +91 7015167992 */}
+                <p><a className='mails' href="tel:+918930063397">+91 8930063397</a><br></br>
+                {/* +91 8930063397 */}
                 </p>
               </div>
               <div class="col-lg-6 info info-bg d-flex flex-column align-items-stretch">
                 <i class="bx bx-envelope"><BsFillEnvelopeFill/></i>
                 <h4>Email Us</h4>
-                <p> <a className='mails' href="mailto:sainimonti17@gmail.com"> riteshkhanna149@gmail.com</a><br></br>
-                {/* deepak2117saini@gmail */}
+                <p> <a className='mails' href="mailto:riteshkhanna149@gmail.com"> riteshkhanna149@gmail.com</a><br></br>
+                {/* riteshkhanna149@gmail.com */}
                 </p>
               </div>
               <div class="col-lg-6 info d-flex flex-column align-items-stretch">
@@ -174,23 +174,23 @@ function Contact(props) {
                 }
                 
             }>
-    <div class='item'>
+    {/* <div class='item'>
     <a href="https://www.freelancer.com/u/sainimonti17" target='_blank'>
       <img src="/images/social/1 (1).png" alt="" />
     
         <a href="https://www.freelancer.com/u/sainimonti17" target='_blank'> Freelancer</a>
         </a>
-    </div>
-    <div class='item'>
+    </div> */}
+    {/* <div class='item'>
     <a href=" https://twitter.com/sainimonti17" target='_blank'>
       <img src="/images/social/1 (2).png" alt="" />
       
         <a href=" https://twitter.com/sainimonti17" target='_blank'>Twitter</a>
         </a>
-    </div>
-    <div class='item'><a href="https://github.com/deepaksaini2218" target='_blank'>
+    </div> */}
+    <div class='item'><a href="https://github.com/Ritesh149" target='_blank'>
       <img src="/images/social/1 (3).png" alt="" />
-       <a href="https://github.com/deepaksaini2218" target='_blank'>Github </a></a>
+       <a href="https://github.com/Ritesh149" target='_blank'>Github </a></a>
     </div>
     <div class='item'>
     <a href="https://www.instagram.com/ritesh.khanna.967?igsh=b2ljenltMW5mamx3/" target='_blank'>

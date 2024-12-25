@@ -23,7 +23,7 @@ function About(props) {
 									<div class="col-lg-6">
 										<ul>
 											<li><i class="bi bi-chevron-right"></i> <strong>Name:</strong> <span>Ritesh</span></li>
-											<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href='https://main--deepak-saini.netlify.app/'> Ritesh</a></span></li>
+											{/* <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href='https://ritesh-khanna.netlify.app/'> Ritesh</a></span></li> */}
 											<li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+91-8930063397</span></li>
 											<li><i class="bi bi-chevron-right"></i> <strong>Village:</strong> <span>Bikaner </span></li>
 											<li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Rewari , Haryana</span></li>
